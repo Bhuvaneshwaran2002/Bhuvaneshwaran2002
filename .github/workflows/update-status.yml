@@ -17,7 +17,7 @@ jobs:
         run: mkdir -p images
 
       - name: Fetch stats card
-       run: curl -s "https://github-readme-stats-fast.vercel.app/api?username=Bhuvaneshwaran2002&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117" -o images/stats.svg
+        run: curl -s "https://github-readme-stats-fast.vercel.app/api?username=Bhuvaneshwaran2002&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117" -o images/stats.svg
 
       - name: Fetch top languages card
         run: curl -s "https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bhuvaneshwaran2002&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" -o images/top-langs.svgsvg
