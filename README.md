@@ -25,7 +25,7 @@
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhuvaneshwaran2002&theme=algolia&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" alt="trophies"/>
+<img src="images/trophies.svg" alt="trophies"/>
 
 </td>
 </tr>
@@ -72,12 +72,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwaran2002&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="165" src="images/stats.svg" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvaneshwaran2002&theme=github-dark-blue&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwaran2002&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+<img height="165" src="images/top-langs.svg" />
 </p>
 
 <p align="center">
@@ -91,8 +91,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Bhuvaneshwaran2002/Bhuvaneshwaran2002/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
-
-> The snake graphic needs a one-time GitHub Actions setup on your profile repo — see "Snake animation setup" below.
 
 ---
 
