@@ -17,7 +17,7 @@ jobs:
       - name: Fetch top languages card
         run: curl -s "https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bhuvaneshwaran2002&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" -o images/top-langs.svg
       - name: Fetch trophies
-        run: curl -s "https://github-profile-trophy-liard-delta.vercel.app/?username=Bhuvaneshwaran2002&theme=algolia&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" -o images/trophies.svg
+        run: curl -s "https://github-trophies.vercel.app/?username=Bhuvaneshwaran2002&theme=algolia&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" -o images/trophies.svg
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
